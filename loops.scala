@@ -25,7 +25,7 @@ object loops {
       number = 1
       number
   }
-  }
+ 
 
    // Return a string containing a filled rectange, where the filling is 
    // the specified number of columns and rows of the character inChar,
